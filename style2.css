@@ -1,0 +1,8 @@
+body{
+	background: url("gottem.png") center center fixed;
+	background-size: contain;
+}
+h3{
+	background-color: yellow;
+	max-width: 150px;
+} 
